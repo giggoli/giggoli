@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 😄 Im Oli
+- 🔭 I’m currently working on my bachelor's Degree
+
 <!--
 **giggoli/giggoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
