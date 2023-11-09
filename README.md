@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 😄 Im Oli
-- 🔭 I’m currently working on my bachelor's Degree
+- 🔭 I’m currently working on my master's degree
+- feel free to contact me
 
 <!--
 **giggoli/giggoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
